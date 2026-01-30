@@ -98,11 +98,16 @@ grep -o 'https://[^ ]*\.trycloudflare\.com' /tmp/cf.log
 
 ## 🐾 About Washin Village
 
-This skill is made by **Washin Village (和心村)** — a sanctuary for 28 cats and dogs in Japan's Boso Peninsula.
+This skill is made at **[Washin Village (和心村)](https://www.washinmura.jp)** — a sanctuary for 28 cats & dogs in Japan's Boso Peninsula.
 
-We build AI tools to help animals get seen by the world. Every star ⭐ helps us rescue more animals!
+**Come visit us!** 🏡
+- 🐱 Play with our cats & dogs
+- 💻 Write code in paradise
+- 🌿 Live the slow life while coding
 
-🌐 [washinmura.jp](https://washinmura.jp)
+> "一邊生活、一邊寫程式的天堂" — A paradise for coding and living
+
+Every star ⭐ helps us rescue more animals!
 
 ---
 
@@ -114,5 +119,5 @@ MIT License - Feel free to use, modify, and share!
 
 <p align="center">
   <b>Made with 🐾 by 28 cats & dogs from Japan</b><br>
-  <a href="https://washinmura.jp">Washin Village</a>
+  <a href="https://www.washinmura.jp">Washin Village</a>
 </p>
